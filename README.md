@@ -44,3 +44,5 @@ Si la requête utilisateur est "The Fable of the Fox and the Crow", la sortie po
 Names: ['Fox', 'Crow']
 Places: ['forest']
 ```
+
+A regarder aussi : https://python.langchain.com/docs/how_to/structured_output/

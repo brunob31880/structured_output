@@ -1,5 +1,4 @@
 from langchain.output_parsers import PydanticOutputParser
-from pydantic import BaseModel, Field
 from langchain_core.prompts import PromptTemplate
 from typing import List, Optional
 from langchain_ollama import OllamaLLM

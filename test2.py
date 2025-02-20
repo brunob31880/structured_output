@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Définition du modèle utilisé
-model_name = "llama3.1"
+model_name = "mistral-nemo"
 model = OllamaLLM(model=model_name)
 
 # Définition du modèle Pydantic pour parser la sortie
